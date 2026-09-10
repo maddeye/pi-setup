@@ -5,6 +5,9 @@
     "check": "tsc --noEmit",
     "prepare": "effect-tsgo patch"
   },
+  "overrides": {
+    "@effect/platform-node-shared": "4.0.0-beta.98"
+  },
   "dependencies": {
     "@anthropic-ai/claude-agent-sdk": "^0.3.207",
     "@earendil-works/pi-ai": "^0.85.1",
