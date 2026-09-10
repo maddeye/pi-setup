@@ -1,0 +1,12 @@
+{
+  "packages": [
+    "git:github.com/DietrichGebert/ponytail",
+    "npm:@narumitw/pi-goal",
+    "npm:pi-schedule-prompt",
+    "npm:@maddeye/pi-voice",
+    "npm:@maddeye/pi-nord",
+    "npm:pi-btw"
+  ],
+  "theme": "nord-dark",
+  "hideThinkingBlock": true
+}

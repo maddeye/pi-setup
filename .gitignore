@@ -1,0 +1,17 @@
+# Ignore everything, then allow only what we share
+/*
+!.gitignore
+!README.md
+!AGENTS.md
+!settings.example.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!extensions/
+!skills/
+
+# Installed dependencies (one npm install at the root)
+node_modules/
+
+# Downloaded fd/rg binaries
+bin/
